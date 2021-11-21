@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋, I'm Janak Khorgade</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate Web and App developer from India</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
