@@ -1,7 +1,7 @@
 <h1 align="center">Hello👋, I'm Janak Khorgade</h1>
-<h3 align="center">A passionate Web and App developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Full Stack Web Development from CDAC, Pune**
 
 - 📫 You can reach me at **janak24fop@gmail.com**
 
