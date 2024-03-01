@@ -1,7 +1,7 @@
 <h1 align="center">Hello👋, I'm Janak Khorgade</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🌱 I’m currently pursuing **PG-Diploma in Advanced Computing from Sunbeam, Pune**
+- 🌱 I’m currently pursuing **PG-Diploma in Advanced Computing from CDAC, Pune**
 
 - 📫 You can reach me at **janak24fop@gmail.com**
 
