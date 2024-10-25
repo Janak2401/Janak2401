@@ -1,9 +1,11 @@
 <h1 align="center">Hello👋, I'm Janak Khorgade</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🌱 A recent post graduate of **Diploma in Advanced Computing from CDAC, Pune**
+- **Junior Software Engineer** at Vaipra Tech Solutions Pvt. Ltd.
 
-- 📫 You can reach me at **janak24fop@gmail.com**
+- A post graduate of **Diploma in Advanced Computing from CDAC, Pune**
+
+- You can reach me at **janak24fop@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
