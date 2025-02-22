@@ -1,7 +1,7 @@
 <h1 align="center">Hello👋, I'm Janak Khorgade</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- **Junior Software Engineer** at Vaipra Tech Solutions Pvt. Ltd.
+- **Junior Software Engineer** at Vaipra Tech Solutions Pvt. Ltd building the product Outpath.
 
 - A post graduate of **Diploma in Advanced Computing from CDAC, Pune**
 
